@@ -1,10 +1,8 @@
-
-
-[索要源码请点我](http://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3423120253595582465&scene=173&subscene=&sessionid=svr_dbd799d91a1&enterid=1713666527&from_msgid=&from_itemidx=&count=3&nolastread=1#wechat_redirect)
+[点我查看本系统详细介绍](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3438552322228256777#wechat_redirect)
 
 关于源码项目的相关问题可以联系我们交流： 【QQ 979748385 QQ群 601569450】 
 
-- **`微信扫一扫 (爱毕设) 获取源码`**
+- **`微信扫一扫 (爱毕设) 获取源码 或 查看演示视频`**
 
 ![qrcode_for_gh_0f10658cd7ee_430](https://github.com/hjsdjko/onlyzaixianshangcheng/assets/120558513/edfc28fc-d9df-4e81-ac62-d02aa360e379)
 
@@ -30,12 +28,3 @@
 5、打开浏览器，参考<说明文档.txt>中的地址
 
 ***************************************************************
-![cfe90e0d1ad2d8ba6f9ca15ab88bf1b](https://github.com/hjsdjko/springbootww862/assets/120558513/dbaa43d7-dd73-403a-b028-e829f53e97df)
-
-![7f8a4043f43f4fe94abbac7dba623f7](https://github.com/hjsdjko/springbootww862/assets/120558513/1ab37a71-4383-41d0-b95c-0072a6a19f0e)
-
-![e16c0bf8213eef1ec7c427ef80ff43a](https://github.com/hjsdjko/springbootww862/assets/120558513/ed3353eb-ba34-46f2-afd4-6a9696d6482d)
-
-![c3e3ead02e71303663d5490d442e55d](https://github.com/hjsdjko/springbootww862/assets/120558513/99ad34ad-2013-4762-9e98-f47d446efcdc)
-
-![20b66ae8115c66457fd43e5036413a9](https://github.com/hjsdjko/springbootww862/assets/120558513/7ee92216-8ee5-47fa-af17-7563a74f1b60)
